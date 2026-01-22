@@ -25,5 +25,5 @@ Celebrate birthdays with 🎵 Happy Birthday music, 🎂 animated cake & candles
 
 ---
 
-## 📂 Project Structure
+
 
